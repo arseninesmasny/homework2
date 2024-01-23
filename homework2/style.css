@@ -1,0 +1,9 @@
+body{
+    box-sizing: border-box;
+    background-color: bisque;
+}
+header{
+    background-color: aquamarine;
+    padding: 20px;
+    text-align: center;
+}
